@@ -1,4 +1,4 @@
-package tech.init.ubot;
+package com.agorasystems.ubot;
 
 import java.io.FileReader;
 import java.io.IOException;
