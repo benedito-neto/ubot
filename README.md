@@ -1,2 +1,2 @@
-# ubot
-A user robot
+# UBot
+A user robot.
